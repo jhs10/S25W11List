@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  S25W11List
-//
-//  Created by Student on 11/17/25.
-//
-
 import SwiftUI
 
 struct ContentView: View {
